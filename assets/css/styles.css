@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&family=Roboto:wght@700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     border-left: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
 }
