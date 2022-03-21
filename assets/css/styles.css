@@ -23,6 +23,9 @@ body {
     font-family: 'Oswald', sans-serif;
     float: right;
 }
+.navbar-links li {
+    display: inline-block;
+}
 
 #hero-outer{
     height: 650px;
