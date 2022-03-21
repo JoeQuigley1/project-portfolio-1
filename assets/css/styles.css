@@ -3,9 +3,28 @@
 * {
     margin: 0;
     padding: 0;
-    border-left: 0;
+    border: 0;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.navbar {
+    width: 80%;
+    height: 80px;
+    position: sticky;
+    background-color: black;
+    color: green;
+    padding-right: 10px;
+}
+.navbar-links {
+    font-family: 'Oswald', sans-serif;
+    float: right;
+}
+
+#hero-outer{
+    height: 650px;
+    width:100%;
 }
