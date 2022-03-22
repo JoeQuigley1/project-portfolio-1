@@ -18,6 +18,8 @@ body {
     height: 80px;
     position: sticky;
     background-color: rgba(0, 0, 12, 1);
+    padding-bottom: 40px;
+    text-transform: uppercase;
 }
 .navbar-links {
     font-family: 'Oswald', sans-serif;
@@ -38,13 +40,24 @@ body {
     background-color:rgb(82, 82, 85);
 }
 
-#hero-outer{
-    height: 650px;
+.hero-outer{
+    height: 700px;
     width:100%;
+
 }
 
-#hero-image {
+.hero-image {
     background: url(/assets/images/Hero-bjj.jpg) no-repeat center top ;
     height: 80%;
     width: 100%;
+}
+
+.hero-text {
+    color: rgba(243, 255, 255, 1);
+    background-color: rgb(82, 82, 85, .8);
+    text-align: center;
+    height: 65%;
+    width: 100%;
+    padding: 100px;
+    border-radius: 1%;
 }
