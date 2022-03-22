@@ -31,6 +31,11 @@ body {
 }
 .navbar-links, ul, a {
     color: rgba(243, 255, 255, 1);
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.active, a:hover {
+    background-color:rgb(82, 82, 85);
 }
 
 #hero-outer{
