@@ -4,6 +4,8 @@
     margin: 0;
     padding: 0;
     border: 0;
+    text-decoration: none;
+    list-style: none;
 }
 
 body {
@@ -12,12 +14,11 @@ body {
 }
 
 .navbar {
-    width: 80%;
+    width: 100%;
     height: 80px;
     position: sticky;
     background-color: black;
     color: green;
-    padding-right: 10px;
 }
 .navbar-links {
     font-family: 'Oswald', sans-serif;
