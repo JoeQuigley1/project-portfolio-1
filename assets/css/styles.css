@@ -66,13 +66,20 @@ body {
 .middle-container {
     position: relative;
     height: 300px;
-    width: 100%;
     background-color: beige;
     padding:100px;
 }
 #middle-text {
     left: 300px;
     position: absolute;
-    left: 150px;
-    top: 150px;
+    left: 200px;
+
+}
+
+#middle-image {
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    right: 80px;
+    top: 40px;
 }
