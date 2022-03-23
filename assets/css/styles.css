@@ -92,3 +92,13 @@ body {
     min-height: 500px;
     background-color: brown;
 }
+
+.benefit-wrapper {
+
+    background-color: blue;
+    border-radius: 10px;
+    margin: 40px 20px;
+    width: 25%;
+    max-height: 500px;
+
+}
