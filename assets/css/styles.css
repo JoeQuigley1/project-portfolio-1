@@ -24,6 +24,9 @@ body {
 .navbar-links {
     font-family: 'Oswald', sans-serif;
     float: right;
+    color: rgba(243, 255, 255, 1);
+    border-radius: 5px;
+    padding: 5px 10px;
 }
 .navbar-links li {
     display: inline-block;
@@ -31,7 +34,7 @@ body {
     padding: 10px;
     line-height: 80px;
 }
-.navbar-links, ul, a {
+.navbar-links, a {
     color: rgba(243, 255, 255, 1);
     border-radius: 5px;
     padding: 5px 10px;
@@ -101,4 +104,10 @@ body {
     width: 25%;
     max-height: 500px;
 
+}
+.banner {
+    background-color: rgba(0, 0, 12, 1);
+}
+.social-links {
+    
 }
