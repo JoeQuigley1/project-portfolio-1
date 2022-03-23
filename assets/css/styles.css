@@ -43,6 +43,7 @@ body {
 .hero-outer{
     height: 700px;
     width:100%;
+    position: relative;
 
 }
 
@@ -58,6 +59,6 @@ body {
     text-align: center;
     height: 65%;
     width: 100%;
-    padding: 100px;
+    padding-top: 200px;
     border-radius: 1%;
 }
