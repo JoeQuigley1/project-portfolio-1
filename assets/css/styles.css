@@ -75,11 +75,20 @@ body {
     text-align: center;
 
 }
+#middle-text, p {
+    font-size: 20px;
+}
 
 #middle-image {
     position: absolute;
     width: 500px;
-    height: 400px;
+    min-height: 400px;
     right: 80px;
     top: 80px;
+}
+
+#benefits {
+    max-width: 100%;
+    min-height: 500px;
+    background-color: brown;
 }
