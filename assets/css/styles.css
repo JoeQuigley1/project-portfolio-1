@@ -95,12 +95,16 @@ body {
     min-height: 500px;
 }
 
+#benefits > div {
+    display: inline-block;
+}
+
 .benefit-wrapper {
 
     background-color: blue;
     border-radius: 10px;
     margin: 40px 20px;
-    width: 25%;
+    width: 20%;
     max-height: 500px;
 
 }
