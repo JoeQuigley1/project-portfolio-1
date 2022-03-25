@@ -89,6 +89,7 @@ body {
     min-height: 400px;
     right: 80px;
     top: 80px;
+    border-radius: 30%;
 }
 
 #benefits {
