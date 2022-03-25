@@ -55,6 +55,7 @@ body {
     background: url(/assets/images/Hero-bjj.jpg) no-repeat center top ;
     height: 700px;
     width: 100%;
+    border-radius: 1%;
 }
 
 .hero-text {
