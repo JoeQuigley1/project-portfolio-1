@@ -9,9 +9,9 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
     font-size: 16px;
 }
+
 .brand-name {
     color: white;
     text-align: center;
@@ -19,6 +19,7 @@ body {
     background-color: rgba(0, 0, 12, 1);
     float: left;
     padding: 20px 30px;
+    font-family: 'Oswald' sans-serif;
 }
 
 .logo {
@@ -31,6 +32,7 @@ body {
     background-color: rgba(0, 0, 12, 1);
     padding-bottom: 40px;
     text-transform: uppercase;
+    font-family: 'Oswald' sans-serif;
     }
 
 .sticky {
