@@ -171,3 +171,8 @@ body {
     }
 
 }
+@media screen and (max-width: 376px) {
+    .navbar .navbar-links {
+        font-size: 90%;
+    }
+}
