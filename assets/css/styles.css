@@ -87,27 +87,32 @@ body {
 
 .middle-container {
     position: relative;
-    height: 300px;
     padding:100px;
+    overflow: hidden;
 }
-#middle-text {
-    position: absolute;
-    margin-right: 50%;
+#text-top {
+    width: 33%;
     text-align: center;
+    margin: auto;
 
 }
-#middle-text, p {
-    font-size: 20px;
+
+#text-bottom 
+{
+margin: auto;
+width: 33%;
 }
 
-#middle-image {
-    position: absolute;
-    width: 500px;
-    right: 80px;
-    top: 80px;
+#middle-image{
+    display: block;
+    
+}
+
+#middle-image img {
+    width: 100%;
+    margin: auto;
     border-radius: 30%;
 }
-
 
 #benefits {
     width: 100%;
