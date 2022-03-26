@@ -74,7 +74,6 @@ body {
     background: url(/assets/images/Hero-bjj.jpg) no-repeat center top ;
     height: 700px;
     width: 100%;
-    border-radius: 1%;
     background-size: 100%;
 }
 
@@ -84,7 +83,6 @@ body {
     height: 72%;
     width: 100%;
     padding-top: 200px;
-    border-radius: 1%;
 }
 
 .middle-container {
@@ -175,4 +173,15 @@ body {
     .navbar .navbar-links {
         font-size: 90%;
     }
+}
+@media  screen and (max-width: 280px) {
+    .navbar .navbar-links {
+        font-size: 80%;
+}
+.navbar-links li {
+    margin: 5px;
+}
+.sticky {
+    position: relative;
+}
 }
