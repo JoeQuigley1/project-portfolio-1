@@ -67,7 +67,6 @@ body {
     height: 700px;
     width:100%;
     position: relative;
-    overflow: hidden;
 
 }
 
@@ -76,6 +75,7 @@ body {
     height: 700px;
     width: 100%;
     border-radius: 1%;
+    background-size: 100%;
 }
 
 .hero-text {
