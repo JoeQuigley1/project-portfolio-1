@@ -31,9 +31,7 @@ body {
     background-color: rgba(0, 0, 12, 1);
     padding-bottom: 40px;
     text-transform: uppercase;
-    display: flex;
-    justify-content: space-around;
-}
+    }
 
 .sticky {
     position: sticky;
@@ -47,6 +45,7 @@ body {
     color: rgba(243, 255, 255, 1);
     border-radius: 5px;
     padding: 5px 10px;
+    float: right;
 }
 
 .navbar-links li {
@@ -68,7 +67,6 @@ body {
     height: 700px;
     width:100%;
     position: relative;
-    z-index: -1;
     overflow: hidden;
 
 }
@@ -151,18 +149,26 @@ body {
 @media screen and (max-width: 700px)
 {
    .navbar .navbar-links {
-       width: 80%;
+       width: 100%;
        text-align: center;
    }
 
    .brand-name  {
-       display: none;
+     float: none;
+     padding: 0px;
+   }
+   .navbar-links, a {
+       padding: 0;
+   }
+   .hero-image {
+       width: 100%;
    }
 }
 
 @media screen and (max-width: 544px) {
     .navbar .navbar-links {
-        width: 40%;
+        width: 100%;
         text-align: center;
     }
+
 }
