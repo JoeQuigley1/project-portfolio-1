@@ -13,6 +13,18 @@ body {
     font-size: 16px;
     background-color: beige;
 }
+.brand-name {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 12, 1);
+    float: left;
+    padding: 20px 30px;
+}
+
+.logo {
+    color:rgba(243, 255, 255, 1);
+}
 
 .navbar {
     width: 100%;
@@ -97,6 +109,7 @@ body {
     top: 80px;
     border-radius: 30%;
 }
+
 
 #benefits {
     max-width: 100%;
