@@ -22,6 +22,11 @@ body {
     padding-bottom: 40px;
     text-transform: uppercase;
 }
+.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
 .navbar-links {
     font-family: 'Oswald', sans-serif;
     float: right;
@@ -48,6 +53,7 @@ body {
     height: 700px;
     width:100%;
     position: relative;
+    z-index: -1;
 
 }
 
@@ -125,4 +131,11 @@ body {
 .social-links i {
     font-size: 160%;
     margin: 80px;
+}
+
+@media screnn and (max-width: 1200px)
+{
+    #benefits {
+        width: 60%;
+    }
 }
