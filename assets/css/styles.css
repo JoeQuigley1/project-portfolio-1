@@ -158,6 +158,41 @@ padding-bottom: 100px;
     margin: 80px;
 }
 
+
+/*Form */
+
+.signup-form {
+    margin: 20px 10% 0 0;
+    color: rgba(243, 255, 255, 1);
+    background-color: rgba( 0, 0, 12, 0.6);
+    max-width: 500px;
+    border: 5px solid black;
+    display: grid;
+    width: 30%;
+    justify-content: center;
+    border-radius: 5%;
+    margin: 0 auto;
+}
+.signup-form h2 {
+    text-align: center;
+}
+#name, #email, #message {
+    line-height: 20px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 5%;
+    text-align: center;
+}
+#submit-btn {
+    margin: 10px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 5%;
+}
+#submit-btn:hover {
+    background-color: aqua;
+}
+
 @media screen and (max-width: 706px)
 {
    .navbar .navbar-links {
