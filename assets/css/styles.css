@@ -73,7 +73,7 @@ body {
 }
 
 .hero-image {
-    background: url(/assets/images/Hero-bjj.jpg) no-repeat center top ;
+    background: url(../images/Hero-bjj.jpg) no-repeat center top ;
     width: 100%;
     background-size: 100%;
     height: 700px;
