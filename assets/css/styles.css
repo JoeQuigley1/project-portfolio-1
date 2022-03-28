@@ -159,6 +159,9 @@ padding-bottom: 100px;
 }
 
 
+#map {
+    float: right;
+}
 /*Form */
 
 .signup-form {
