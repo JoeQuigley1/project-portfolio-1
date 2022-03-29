@@ -158,6 +158,35 @@ padding-bottom: 100px;
     margin: 80px;
 }
 
+#location {
+    text-align: left;
+    padding: 20px;
+}
+
+#timetable {
+    width: 40%;
+}
+
+table, td {
+    border: 1px solid;
+    padding: 20px;
+}
+
+.open-mat {
+    background-color: aqua;
+}
+
+.beginner {
+    background-color: lightgreen;
+}
+
+.advanced {
+    background-color: red;
+}
+.closed {
+    background-color: grey;
+}
+
 #contact-sect {
     text-align: center;
     padding: 60px;
