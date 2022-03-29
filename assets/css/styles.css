@@ -164,7 +164,7 @@ padding-bottom: 100px;
 }
 
 #timetable {
-    width: 40%;
+    overflow-x: auto;
 }
 
 table, td {
