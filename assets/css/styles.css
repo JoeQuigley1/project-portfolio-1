@@ -159,6 +159,32 @@ padding-bottom: 100px;
     margin: 80px;
 }
 
+#coach-top {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    text-align: center;
+    padding-right: 50px;
+
+}
+
+.coach-right {
+    display: inline-block;
+}
+
+#coach
+{
+    background: cover no-repeat center;
+    width: 400px;
+    height: 400px;
+}
+
+
+#coach-bottom {
+    display: inline-block;
+}
+
+
 #location {
     text-align: left;
     padding: 20px;
