@@ -172,26 +172,36 @@ padding-bottom: 100px;
     display: inline-block;
 }
 
-#coach
+.coach
 {
     background: cover no-repeat center;
     width: 400px;
     height: 400px;
+    padding: 10px 0 50px 200px;
 }
 
 
 #coach-bottom {
     display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    text-align: center;
+    padding-right: 50px;
+}
+
+.line-break-coach {
+    padding: 50px;
 }
 
 
 #location {
-    text-align: left;
+    text-align: center;
     padding: 20px;
 }
 
 #timetable {
     overflow-x: auto;
+    margin: 0 150px 50px 500px;
 }
 
 table, td {
