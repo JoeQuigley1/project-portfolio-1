@@ -235,6 +235,15 @@ table, td {
     background-color: aqua;
 }
 
+
+@media  screen and (max-width:870px) {
+
+       #benefits > div {
+       width: 80%;
+   }
+}
+
+
 @media screen and (max-width: 706px)
 {
    .navbar .navbar-links {
@@ -251,21 +260,65 @@ table, td {
    }
    .hero-image {
        width: 100%;
+       height: 400px;
    }
+
+   .middle-container {
+       padding: 0;
+   }
+
+   #middle-image {
+       margin: 0 auto;
+   }
+
+   #benefits > div {
+       width: 70%;
+   }
+
+   .social-links i {
+    font-size: 120%;
+    margin: 40px;
 }
+
+}
+
+
 
 @media screen and (max-width: 544px) {
     .navbar .navbar-links {
         width: 100%;
         text-align: center;
     }
+    #middle-image img {
+        margin: 0 40px;
+    }
+
+    .hero-image {
+        width: 100%;
+        height: 350px;
+    }
+ 
 
 }
+
+
 @media screen and (max-width: 376px) {
     .navbar .navbar-links {
         font-size: 80%;
     }
+    #middle-image img {
+        margin: 0 40px;
+    }
+
+    .social-links i {
+        font-size: 100%;
+        margin: 20px;
+    }
+
+
 }
+
+
 @media  screen and (max-width: 280px) {
     .navbar .navbar-links {
         font-size: 80%;
@@ -275,5 +328,10 @@ table, td {
 }
 .sticky {
     position: relative;
+}
+
+.social-links i {
+    font-size: 100%;
+    margin: 5px;
 }
 }
