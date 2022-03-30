@@ -130,7 +130,7 @@ padding-bottom: 100px;
 
 #benefits > div {
     display: inline-block;
-    overflow-y:scroll;
+    overflow-y: auto;
 }
 
 .benefit-wrapper {
