@@ -303,18 +303,21 @@ table, td {
 
 
 @media screen and (max-width: 376px) {
-    .navbar .navbar-links {
+
+    .hero-outer {
+        height: 250px;
+    }
+    .navbar .navbar-links li {
         font-size: 80%;
+        margin: 0;
     }
     #middle-image img {
         margin: 0 40px;
     }
 
-    .social-links i {
-        font-size: 100%;
-        margin: 20px;
+    #text-top, #text-bottom {
+        padding: 10px;
     }
-
 
 }
 
