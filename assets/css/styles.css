@@ -94,6 +94,7 @@ h1, h2 {
     position: relative;
     padding:100px;
     overflow: hidden;
+    background-color: rgba(233,237,240,255);
 }
 
 .middle-container h2 {
@@ -130,6 +131,7 @@ font-size: 150%;
 #benefits {
     width: 100%;
     text-align: center;
+    background-color: rgba(233,237,240,255);
 }
 
 #benefit-header {
@@ -179,6 +181,9 @@ font-size: 150%;
     font-size: 160%;
     margin: 80px;
 }
+#meet-the-coach {
+    background-color: rgba(233,237,240,255);
+}
 
 #meet-the-coach h1{
     text-align: center;
@@ -220,6 +225,9 @@ font-size: 150%;
     padding: 50px;
 }
 
+#time-loc {
+    background-color: rgba(233,237,240,255);
+}
 
 #location {
     text-align: center;
@@ -229,7 +237,7 @@ font-size: 150%;
 #timetable {
     overflow-x: auto;
     margin: 0 150px 50px 500px;
-    padding: 0 0 5px 5px;
+    padding: 0 0 5px 5px;;
 }
 
 table, td {
@@ -299,6 +307,10 @@ table, td {
     background-color: aqua;
 }
 
+#feedback-center {
+    background-color: rgba(233,237,240,255);
+}
+
 
 @media screen and (max-width:1320px){
 
@@ -329,6 +341,10 @@ table, td {
     .hero-image {
         height: 500px;
     }
+
+    #text-top, #text-bottom {
+        font-size: 130%;
+    }
 }
 
 @media  screen and (max-width:870px) {
@@ -350,6 +366,9 @@ table, td {
        .hero-image {
            height: 450px;
        }
+       #text-top, #text-bottom {
+        font-size: 120%;
+    }
 }
 
 
@@ -399,7 +418,7 @@ table, td {
     }
 
     .hero-outer {
-        height: 230px;
+        height: 260px;
     }
 
     #middle-image img {
@@ -410,9 +429,12 @@ table, td {
         width: 100%;
         height: 350px;
     }
+    #text-top, #text-bottom {
+        font-size: 110%;
+    }
 
     #meet-the-coach h1 {
-        padding: 0 0 10px 0;
+        padding: 10px 0 10px 0;
     }
     .line-break-coach {
         padding: 0;
@@ -455,7 +477,7 @@ table, td {
 @media screen and (max-width: 376px) {
 
     .hero-outer {
-        height: 200px;
+        height: 230px;
     }
     .navbar .navbar-links li {
         font-size: 80%;
@@ -507,6 +529,18 @@ table, td {
 
 .hero-outer {
     height:150px;
+}
+
+#text-top, #text-bottom {
+    font-size: 100%;
+}
+
+.benefit-block {
+    font-size: 100%;
+}
+
+#meet-the-coach {
+    padding-top: 20px;
 }
 
 }
