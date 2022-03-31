@@ -416,22 +416,20 @@ table, td {
         padding: 10px;
     }
 
-    #coach-top #coach-bottom {
-        padding:0px
+    #coach-top, #coach-bottom {
+        padding-right:0px;
     }
 
-    .coach {
-        width: 100%;
-    }
     #coach-big
     {
         margin-left: 0;
+        width:100%;
     }
     #coach-small {
         margin-left: 50px;
     }
     #timetable {
-        padding-left: 5px;
+        padding: 0 0 5px 5px;
     }
 
 }
