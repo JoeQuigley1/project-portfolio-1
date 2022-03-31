@@ -315,6 +315,13 @@ table, td {
 
 #feedback-center {
     background-color: rgba(233,237,240,255);
+    height: 500px;
+    text-align: center;
+    font-size: 200%;
+}
+
+#feedback-center p{
+    padding-top: 5%;
 }
 
 
