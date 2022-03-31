@@ -131,3 +131,17 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
 
 
 The live link can be found here [GripForce BJJ](https://joequigley1.github.io/project-portfolio-1/)
+
+
+ ## Credits
+
+ [David Bowers](https://github.com/dnlbowers) - Webinar/channel lead
+ [Martina Terlevic](https://www.linkedin.com/in/martinaterlevic/) - Mentor
+
+
+ ## Content
+   
+   * The information on the home page as well as some of the benefits were taken from Wikipedia
+   * The instrctions on how to code were taken from Code Institute. 
+    * I tried to deviate away from the Love Running project example as much as possible. 
+   * The icons in the footer were taken from Font Awesome
