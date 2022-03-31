@@ -68,3 +68,18 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
 
 
 ![Screenshot of the Feeback thankyou page](docs/feature-screenshots/Feeback-form.png)
+ 
+
+## Testing
+  I tested the website on verious web browsers and on several different devices including different sized mobile devices.
+  All of the features work as intended on all devices. 
+
+   * Lighthouse Desktop
+      * The Desktop version came back with a very positive result in the lighthouse audit. All aspects of the Website were working efficiently. 
+
+      ![Screenshot of lighthouse desktop test](docs/testing/lighthouse%20test.png)
+
+   * Lighthouse Mobile
+      * The mobile version for the test came back less efficient than the desktop. The accessibility measure came back with a high score however performance was much lower than the desktop version.
+
+      ![Screenshot of lighthouse mobile test](docs/testing/lighthouse-test-mobile.png)
