@@ -48,5 +48,9 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
 
  ![Screenshot of the meet the coaches seciton including text and two pictures](docs/feature-screenshots/Meet-the-coaches.png)
 
+* Timetable
+   * This is a fictional timetable of the time and levels of training. 
+   * Each category has a unique color to allow the user to quickly absorb the information.
+   * The timetable ha a scroll feature to allow smaller screens to easily view all of the information. 
 
-
+   ![Screenshot of the timetable for GripForce](docs/feature-screenshots/timetable.png)
