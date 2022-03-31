@@ -74,6 +74,7 @@ h1, h2 {
     height: 80%;
     width:100%;
     position: relative;
+    background-color: rgba(233,237,240,255);
 
 }
 
@@ -469,6 +470,11 @@ table, td {
     #timetable {
         font-size: 80%;
     }
+    
+    #contact-sect {
+        padding-top: 100px;
+    }
+
  
 
 }
@@ -477,7 +483,7 @@ table, td {
 @media screen and (max-width: 376px) {
 
     .hero-outer {
-        height: 230px;
+        height: 200px;
     }
     .navbar .navbar-links li {
         font-size: 80%;
@@ -497,7 +503,7 @@ table, td {
 
     #coach-big
     {
-        margin-left: 0;
+        margin-left: 5px;
         width:100%;
     }
     #coach-small {
@@ -507,7 +513,6 @@ table, td {
         padding: 0 0 5px 5px;
         font-size: 80%;
     }
-
 }
 
 
@@ -541,6 +546,20 @@ table, td {
 
 #meet-the-coach {
     padding-top: 20px;
+}
+
+#coach-big {
+    margin-left: 5px;
+}
+
+#coach-small {
+    margin-left: 5px;
+    width: 150px;
+    height: 250px;
+}
+#contact-sect {
+    font-size: 80%;
+    padding-left: 0;
 }
 
 }
