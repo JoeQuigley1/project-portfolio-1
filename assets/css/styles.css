@@ -189,6 +189,7 @@ font-size: 150%;
 }
 #meet-the-coach {
     background-color: rgba(233,237,240,255);
+    font-size: 200%;
 }
 
 #meet-the-coach h1{
@@ -371,6 +372,10 @@ table, td {
         padding: 10px 0 50px 20px;
        }
 
+       #meet-the-coach {
+           font-size: 150%;
+       }
+
        #meet-the-coach h1 {
            padding: 0;
        }
@@ -382,6 +387,9 @@ table, td {
        }
        #text-top, #text-bottom {
         font-size: 120%;
+    }
+    #timetable{
+        margin: 0 0 20px 20px;
     }
 }
 
@@ -505,6 +513,10 @@ table, td {
     #middle-image img {
         margin: 0 40px;
     }
+    #meet-the-coach {
+        font-size: 100%;
+    }
+
 
     #text-top, #text-bottom {
         padding: 10px;
