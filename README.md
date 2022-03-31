@@ -108,3 +108,26 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
     * On the initial run of the validator I got several errors relating to a rgba value which was wrong. I found the rogue number and deleted it, which fixed the error. 
 
     ![Screenshot of css error](docs/testing/css-error.png)
+
+
+## Unresolved Bugs
+
+  * Lighthouse Mobile Performance
+     * The performance issues relate to the size of the images which I used for the hero and the grappling sections. 
+     * Early on in development I tried using the smaller files but did not like the look of the images on larger screens. 
+     * Since the website works on mobile devices I decided to leave the images unchanged. 
+
+
+## Deployment 
+ After finishing the majority of the project I deployed the site on GitHub using the following steps:
+
+  * GitHub Pages
+     * Navigate to the repository on GitHub and click 'Settings'.
+     * Then select 'Pages' on the side navigation.
+     * From the source section drop-down menu, select the 'Main' Branch.
+     * Click on the 'Save' button.
+     * This is now a live website. 
+
+
+
+The live link can be found here [GripForce BJJ](https://joequigley1.github.io/project-portfolio-1/)
