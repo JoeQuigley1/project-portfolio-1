@@ -11,7 +11,7 @@
 body {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
 }
 
 h1, h2 {
@@ -22,9 +22,9 @@ h1, h2 {
     color: white;
     text-align: center;
     text-transform: uppercase;
-    background-color: rgba(0, 0, 12, 1);
+    background-color: #02050c;
     float: left;
-    padding: 20px 30px;
+    padding: 10px;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -75,7 +75,7 @@ h1, h2 {
     height: 80%;
     width:100%;
     position: relative;
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
 
 }
 
@@ -99,7 +99,7 @@ h1, h2 {
     position: relative;
     padding:100px;
     overflow: hidden;
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
 }
 
 .middle-container h2 {
@@ -136,7 +136,7 @@ font-size: 150%;
 #benefits {
     width: 100%;
     text-align: center;
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
 }
 
 #benefit-header {
@@ -188,7 +188,7 @@ font-size: 150%;
     margin: 80px;
 }
 #meet-the-coach {
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
     font-size: 200%;
 }
 
@@ -233,7 +233,7 @@ font-size: 150%;
 }
 
 #time-loc {
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
 }
 
 #location {
@@ -270,7 +270,7 @@ table, td {
 #contact-sect {
     text-align: center;
     padding: 60px;
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
 }
 
 #contact-details div {
@@ -279,7 +279,7 @@ table, td {
 
 #form-sect {
     padding: 0 20px;
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
     margin-bottom: 20px;
 }
 
@@ -316,7 +316,7 @@ table, td {
 }
 
 #feedback-center {
-    background-color: rgba(233,237,240,255);
+    background-color: rgba(233,237,240);
     height: 500px;
     text-align: center;
     font-size: 200%;
