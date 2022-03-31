@@ -22,7 +22,17 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
 
 * Explanation of what BJJ is
    * This section allows users who may have no prior knowledge of Brazilian Jiu Jitsu get abetter understanding of what the sport is. 
-   * It gives a bief introduction into both the history and the concept of the Martical Art. 
+   * It gives a bief introduction into both the history and the concept of the Martical Art.
+   * Included is a picture of two men grappling. This gives the user a clear understanding of what BJJ might look like. 
 
  ![Screenshot of BJJ](docs/feature-screenshots/explanation-bjj.png)
+ ![Screenshot of two men grappling](docs/feature-screenshots/grappling-screenshot.png)
+
+ * Benefit Block Section
+    * The purpose of the benefit section is to educate users on the positive aspects of doing BJJ.
+    * There are 8 reasons included. They are styled in a block container which is aimed to grab the users attention. 
+    * There is a scroll feature on the blocks to accomodate different screen sizes and quantity of text.
+
+![Screenshot of the benefits of doing BJJ](docs/feature-screenshots/benefits-screenshot.png)
+
 
