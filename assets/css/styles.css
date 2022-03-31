@@ -7,17 +7,14 @@
     text-decoration: none;
     list-style: none;
 }
-
 body {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     background-color: rgba(233,237,240);
 }
-
 h1, h2 {
     font-family: 'Oswald', sans-serif;
 }
-
 .brand-name {
     color: white;
     text-align: center;
@@ -27,11 +24,9 @@ h1, h2 {
     padding: 10px;
     font-family: 'Oswald', sans-serif;
 }
-
 .logo {
     color:rgba(243, 255, 255, 1);
 }
-
 .navbar {
     width: 100%;
     height: 80px;
@@ -46,7 +41,6 @@ h1, h2 {
     top: 0;
     z-index: 1;
 }
-
 .navbar-links {
     font-family: 'Oswald', sans-serif;
     float: right;
@@ -55,7 +49,6 @@ h1, h2 {
     padding: 5px 10px;
     float: right;
 }
-
 .navbar-links li {
     display: inline-block;
     margin-right: 40px;
@@ -70,28 +63,23 @@ h1, h2 {
 .active, a:hover {
     background-color:rgb(82, 82, 85);
 }
-
 .hero-outer{
     height: 80%;
     width:100%;
     position: relative;
     background-color: rgba(233,237,240);
-
 }
-
 .hero-image {
     background: url(../images/Hero-bjj.jpg) no-repeat center top ;
     width: 100%;
     background-size: 100%;
     height: 700px;
 }
-
 .hero-text {
     color: rgba(243, 255, 255, 1);
     text-align: center;
     background-color: rgb(79,79,81, 0.7);
 }
-
 .hero-text p {
     font-size: 150%;
 }
@@ -101,7 +89,6 @@ h1, h2 {
     overflow: hidden;
     background-color: rgba(233,237,240);
 }
-
 .middle-container h2 {
     padding-bottom: 20px;
 }
@@ -112,7 +99,6 @@ h1, h2 {
     padding-bottom: 100px;
     font-size: 150%;
 }
-
 #text-bottom 
 {
 margin: auto;
@@ -121,39 +107,30 @@ text-align: center;
 padding-bottom: 100px;
 font-size: 150%;
 }
-
 #middle-image{
     display: block;
-    
 }
-
 #middle-image img {
     width: 80%;
     border-radius: 30%;
     margin-left: 100px;
 }
-
 #benefits {
     width: 100%;
     text-align: center;
     background-color: rgba(233,237,240);
 }
-
 #benefit-header {
     display: block;
     padding: 30px;
     font-family: 'Oswald', sans-serif;
 }
-
 #benefits > div {
     display: inline-block;
     overflow-y: auto;
     padding: 5px;
 }
-
-
 .benefit-wrapper {
-
     background-color:rgb(82, 82, 85);
     border-radius: 10px;
     margin: 20px 20px;
@@ -162,7 +139,6 @@ font-size: 150%;
     overflow: hidden;
     color: rgba(243, 255, 255, 1);
 }
-
 .benefit-block  {
     font-size: 120%;
 }
@@ -171,7 +147,6 @@ font-size: 150%;
     padding: 5px 0 10px 0;
     text-decoration: underline;
 }
-
 .banner {
     background-color: rgba(0, 0, 12, 1);
 }
@@ -191,35 +166,27 @@ font-size: 150%;
     background-color: rgba(233,237,240);
     font-size: 200%;
 }
-
 #meet-the-coach h1{
     text-align: center;
     padding: 50px;
     color: #16120f;
 }
-
 #coach-top {
     display: inline-block;
     vertical-align: top;
     width: 50%;
     text-align: center;
     padding: 0 50px 0 20px;
-
 }
-
 .coach-right {
     display: inline-block;
 }
-
-.coach
-{
+.coach{
     background: no-repeat center;
     width: 400px;
     height: 400px;
     padding: 10px 0 50px 200px;
 }
-
-
 #coach-bottom {
     display: inline-block;
     vertical-align: top;
@@ -227,62 +194,50 @@ font-size: 150%;
     text-align: center;
     padding: 0 50px 0 20px;
 }
-
 .line-break-coach {
     padding: 50px;
 }
-
 #time-loc {
     background-color: rgba(233,237,240);
 }
-
 #location {
     text-align: center;
     padding: 20px;
 }
-
 #timetable {
     overflow-x: auto;
     margin: 0 150px 50px 500px;
     padding: 0 0 5px 5px;;
 }
-
 table, td {
     border: 1px solid;
     padding: 20px;
 }
-
 .open-mat {
     background-color: #3c65c7;
 }
-
 .beginner {
     background-color: #5bc948;
 }
-
 .advanced {
     background-color: #642E9E;
 }
 .closed {
     background-color: #Adbbbb;
 }
-
 #contact-sect {
     text-align: center;
     padding: 60px;
     background-color: rgba(233,237,240);
 }
-
 #contact-details div {
     padding: 10px;
 }
-
 #form-sect {
     padding: 0 20px;
     background-color: rgba(233,237,240);
     margin-bottom: 20px;
 }
-
 .signup-form {
     margin: 20px 10% 0 0;
     color: rgba(243, 255, 255, 1);
@@ -314,38 +269,30 @@ table, td {
 #submit-btn:hover {
     background-color: rgb(82, 82, 85);
 }
-
 #feedback-center {
     background-color: rgba(233,237,240);
     height: 500px;
     text-align: center;
     font-size: 200%;
 }
-
 #feedback-center p{
     padding-top: 5%;
 }
-
-
 @media screen and (max-width:1320px){
-
     #coach-top, #coach-bottom {
         width: 80%;
         padding: 20px 80px;
     }
-
     .coach {
         padding-left: 500px;
     }
     .line-break-coach {
         padding: 25px;
     }
-    
     #timetable {
     margin: 0 0 50px 150px;
 }
 }
-
 @media screen and (max-width:1150px) {
     .coach{
         padding: 10px 0 50px 200px;
@@ -356,14 +303,11 @@ table, td {
     .hero-image {
         height: 500px;
     }
-
     #text-top, #text-bottom {
         font-size: 130%;
     }
 }
-
 @media  screen and (max-width:870px) {
-
        #benefits > div {
        width: 80%;
        }
@@ -392,15 +336,12 @@ table, td {
         margin: 0 0 20px 20px;
     }
 }
-
-
 @media screen and (max-width: 706px)
 {
    .navbar .navbar-links {
        width: 100%;
        text-align: center;
    }
-
    .brand-name  {
      float: none;
      padding: 0px;
@@ -412,41 +353,31 @@ table, td {
        width: 100%;
        height: 400px;
    }
-
    .middle-container {
        padding: 0;
    }
-
    #middle-image {
        margin: 0 auto;
    }
-
    #benefits > div {
        width: 70%;
    }
-
    .social-links i {
     font-size: 120%;
     margin: 40px;
 }
 }
-
-
-
 @media screen and (max-width: 544px) {
     .navbar .navbar-links {
         width: 100%;
         text-align: center;
     }
-
     .hero-outer {
         height: 260px;
     }
-
     #middle-image img {
         margin: 0 40px;
     }
-
     .hero-image {
         width: 100%;
         height: 350px;
@@ -454,33 +385,26 @@ table, td {
     #text-top, #text-bottom {
         font-size: 110%;
     }
-
     #meet-the-coach h1 {
         padding: 10px 0 10px 0;
     }
     .line-break-coach {
         padding: 0;
     }
-
     .coach {
         padding:10px 0;
         margin-left: 10px;
     }
-
     #coach-top, #coach-bottom {
         padding: 20px;
     }
-
-
     #coach-top, #coach-bottom {
         width: 80%;
     }
-
     #coach-big {
         width: 100%;
         height: 200px;
     }
-
     #coach-small {
         width: 200px;
         height: 300px;
@@ -491,13 +415,9 @@ table, td {
     #timetable {
         font-size: 80%;
     }
-    
     #contact-sect {
         padding-top: 100px;
     }
-
- 
-
 }
 
 
@@ -551,32 +471,25 @@ table, td {
 .sticky {
     position: relative;
 }
-
 .social-links i {
     font-size: 100%;
     margin: 5px;
 }
-
 .hero-outer {
     height:150px;
 }
-
 #text-top, #text-bottom {
     font-size: 100%;
 }
-
 .benefit-block {
     font-size: 100%;
 }
-
 #meet-the-coach {
     padding-top: 20px;
 }
-
 #coach-big {
     margin-left: 5px;
 }
-
 #coach-small {
     margin-left: 5px;
     width: 150px;
@@ -586,5 +499,4 @@ table, td {
     font-size: 80%;
     padding-left: 0;
 }
-
 }
