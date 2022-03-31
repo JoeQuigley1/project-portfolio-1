@@ -34,7 +34,7 @@ h1, h2 {
 .navbar {
     width: 100%;
     height: 80px;
-    background-color: rgba(0, 0, 12, 1);
+    background-color: #02050c;
     padding-bottom: 40px;
     text-transform: uppercase;
     font-family: 'Oswald' sans-serif;
@@ -49,7 +49,7 @@ h1, h2 {
 .navbar-links {
     font-family: 'Oswald', sans-serif;
     float: right;
-    color: rgba(243, 255, 255, 1);
+    color: #ffffff;
     border-radius: 5px;
     padding: 5px 10px;
     float: right;
@@ -87,9 +87,7 @@ h1, h2 {
 .hero-text {
     color: rgba(243, 255, 255, 1);
     text-align: center;
-    height: 80%;
-    width: 100%;
-    padding-top: 200px;
+    background-color: rgb(79,79,81, 0.7);
 }
 
 .middle-container {
@@ -185,6 +183,7 @@ font-size: 150%;
 #meet-the-coach h1{
     text-align: center;
     padding: 50px;
+    color: #16120f;
 }
 
 #coach-top {
@@ -256,7 +255,7 @@ table, td {
 #contact-sect {
     text-align: center;
     padding: 60px;
-    background-color: green;
+    background-color: rgba(233,237,240,255);
 }
 
 #contact-details div {
@@ -264,7 +263,8 @@ table, td {
 }
 
 #form-sect {
-    padding: 20px;
+    padding: 0 20px;
+    background-color: rgba(233,237,240,255);
 }
 
 .signup-form {
@@ -326,6 +326,9 @@ table, td {
     #timetable{
         margin: 0 0 50px 50px;
     }
+    .hero-image {
+        height: 500px;
+    }
 }
 
 @media  screen and (max-width:870px) {
@@ -343,6 +346,9 @@ table, td {
        }
        #coach-top, #coach-bottom {
            padding-right: 0;
+       }
+       .hero-image {
+           height: 450px;
        }
 }
 
@@ -391,6 +397,11 @@ table, td {
         width: 100%;
         text-align: center;
     }
+
+    .hero-outer {
+        height: 230px;
+    }
+
     #middle-image img {
         margin: 0 40px;
     }
@@ -444,7 +455,7 @@ table, td {
 @media screen and (max-width: 376px) {
 
     .hero-outer {
-        height: 250px;
+        height: 200px;
     }
     .navbar .navbar-links li {
         font-size: 80%;
@@ -494,5 +505,8 @@ table, td {
     margin: 5px;
 }
 
+.hero-outer {
+    height:150px;
+}
 
 }
