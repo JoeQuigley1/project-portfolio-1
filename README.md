@@ -54,3 +54,17 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
    * The timetable ha a scroll feature to allow smaller screens to easily view all of the information. 
 
    ![Screenshot of the timetable for GripForce](docs/feature-screenshots/timetable.png)
+
+* Contact section 
+   * In this section the user can easily find all of the information about GripForce BJJ such as a phone number, address and email..
+   * Also included is a form for any queries that the user would like to address.
+   * The form has a name and email input and a textarea which are all required for the form to work. 
+
+   ![Screenshot of the contact information and the form](docs/feature-screenshots/contact-section.png)
+
+*  Feedback thank you page 
+   * The final page is a feedback page which will open once the form is submitted.
+   * It has a consistent nav and footer to maintain a seamless user experience. 
+
+
+![Screenshot of the Feeback thankyou page](docs/feature-screenshots/Feeback-form.png)
