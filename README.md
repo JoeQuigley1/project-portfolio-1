@@ -137,6 +137,8 @@ The live link can be found here [GripForce BJJ](https://joequigley1.github.io/pr
 
  * [David Bowers](https://github.com/dnlbowers) - Webinar/channel lead
  * [Martina Terlevic](https://www.linkedin.com/in/martinaterlevic/) - Mentor
+ * [Code Institute](https://codeinstitute.net/ie/)- Where I learned the majority of what I used in this project.
+ * [W3schools](https://www.w3schools.com/) - Useful resource for learning how properties work in css. 
 
 
  ## Content
