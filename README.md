@@ -145,3 +145,13 @@ The live link can be found here [GripForce BJJ](https://joequigley1.github.io/pr
    * The instrctions on how to code were taken from Code Institute. 
     * I tried to deviate away from the Love Running project example as much as possible. 
    * The icons in the footer were taken from Font Awesome
+
+## Media
+
+   * The images used in this website were taken from [Pixaby](https://pixabay.com/)
+
+
+## Final Note
+
+Thank you for taking the time to visit my website and looking through my README file. 
+I hope you came away with a pleasant experience. 
