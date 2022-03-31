@@ -35,4 +35,10 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
 
 ![Screenshot of the benefits of doing BJJ](docs/feature-screenshots/benefits-screenshot.png)
 
+* Footer section
+   * The footer section is consistent throughout the website. 
+   * It contains 3 icons of social media platforms.
+   * The icons also act as links and when clicked will bring you to the website in a new tab
+
+![Screenshot of the footer](docs/feature-screenshots/footer-screenshot.png)
 
