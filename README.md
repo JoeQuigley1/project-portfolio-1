@@ -14,3 +14,11 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
 
  ![Screenshot of Navbar](docs/feature-screenshots/navbar.png)
 
+ * Hero Image section
+    * This section is intented to immediatley give the user visual confirmation that they have visited a BJJ website.
+    * It displays the name of the club and the location
+
+ ![Screenshot of Hero section](docs/feature-screenshots/hero-screenshot.png)
+
+
+
