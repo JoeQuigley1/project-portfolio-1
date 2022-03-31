@@ -11,6 +11,7 @@
 body {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
+    background-color: rgba(233,237,240,255);
 }
 
 h1, h2 {
@@ -166,8 +167,9 @@ font-size: 150%;
     font-size: 120%;
 }
 .benefit-block h3 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding: 5px 0 10px 0;
+    text-decoration: underline;
 }
 
 .banner {
@@ -200,7 +202,7 @@ font-size: 150%;
     vertical-align: top;
     width: 50%;
     text-align: center;
-    padding-right: 50px;
+    padding: 0 50px 0 20px;
 
 }
 
@@ -222,7 +224,7 @@ font-size: 150%;
     vertical-align: top;
     width: 50%;
     text-align: center;
-    padding-right: 50px;
+    padding: 0 50px 0 20px;
 }
 
 .line-break-coach {
