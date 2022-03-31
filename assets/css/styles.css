@@ -279,6 +279,7 @@ table, td {
 #form-sect {
     padding: 0 20px;
     background-color: rgba(233,237,240,255);
+    margin-bottom: 20px;
 }
 
 .signup-form {
