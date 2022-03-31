@@ -230,6 +230,7 @@ font-size: 150%;
 #timetable {
     overflow-x: auto;
     margin: 0 150px 50px 500px;
+    padding: 0 0 5px 5px;
 }
 
 table, td {
@@ -262,7 +263,6 @@ table, td {
     padding: 10px;
 }
 
-/*Form */
 #form-sect {
     padding: 20px;
 }
@@ -300,18 +300,49 @@ table, td {
 }
 
 
-@media screen and (max-width:1275px){
+@media screen and (max-width:1320px){
 
-#timetable {
+    #coach-top, #coach-bottom {
+        width: 80%;
+        padding: 20px 80px;
+    }
+
+    .coach {
+        padding-left: 500px;
+    }
+    .line-break-coach {
+        padding: 25px;
+    }
+    
+    #timetable {
     margin: 0 0 50px 150px;
 }
+}
 
+@media screen and (max-width:1150px) {
+    .coach{
+        padding: 10px 0 50px 200px;
+    }
+    #timetable{
+        margin: 0 0 50px 50px;
+    }
 }
 
 @media  screen and (max-width:870px) {
 
        #benefits > div {
        width: 80%;
+       }
+
+       .coach {
+        padding: 10px 0 50px 20px;
+       }
+
+       #meet-the-coach h1 {
+           padding: 0;
+       }
+       #coach-top, #coach-bottom {
+           padding-right: 0;
        }
 }
 
@@ -378,16 +409,16 @@ table, td {
 
     .coach {
         padding:10px 0;
-        margin-left: 0px;
+        margin-left: 10px;
     }
 
     #coach-top, #coach-bottom {
-        padding-right: 0;
+        padding: 20px;
     }
 
 
-    #coach-top {
-        width: 100%;
+    #coach-top, #coach-bottom {
+        width: 80%;
     }
 
     #coach-big {
@@ -395,9 +426,6 @@ table, td {
         height: 200px;
     }
 
-    #coach-bottom {
-        width: 100%;
-    }
     #coach-small {
         width: 200px;
         height: 300px;
@@ -406,7 +434,6 @@ table, td {
         margin: 0;
     }
     #timetable {
-        padding: 0 0 5px 5px;
         font-size: 80%;
     }
  
