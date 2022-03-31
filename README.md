@@ -80,6 +80,31 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
       ![Screenshot of lighthouse desktop test](docs/testing/lighthouse%20test.png)
 
    * Lighthouse Mobile
-      * The mobile version for the test came back less efficient than the desktop. The accessibility measure came back with a high score however performance was much lower than the desktop version.
+      * The mobile version for the test came back less efficient than the desktop. The accessibility measure came back with a high score however performance was much lower.
 
       ![Screenshot of lighthouse mobile test](docs/testing/lighthouse-test-mobile.png)
+
+## Validator Testing
+
+ * HTML
+    * Code passed without errors. 
+
+![Screenshot of HTML validator](docs/testing/html-validator.png)
+
+ * CSS
+    * Code passed without errors. 
+
+    ![Screenshot of CSS validator](docs/testing/css-vlidator.png)
+
+## Bug Fixes
+
+  * HTML 
+    * On the initial run through of the validator I got several errors stating that an extra closing tag was in my code. 
+    I found the closing tag and removed it. 
+
+    ![Screenshot of the stray tag](docs/testing/stray-tag.png)
+
+  * CSS 
+    * On the initial run of the validator I got several errors relating to a rgba value which was wrong. I found the rogue number and deleted it, which fixed the error. 
+
+    ![Screenshot of css error](docs/testing/css-error.png)
