@@ -42,3 +42,11 @@ GripForce BJJ is the website for a fictional Brazilian Jiu Jitsu club. The site 
 
 ![Screenshot of the footer](docs/feature-screenshots/footer-screenshot.png)
 
+* Meet the coaches
+  * Located on the Join us page, the Meet the coaches introduces the user to the fictional coaches of GripForce BJJ.
+  * The section includes a brief bio of both coaches and their pictures. 
+
+ ![Screenshot of the meet the coaches seciton including text and two pictures](docs/feature-screenshots/Meet-the-coaches.png)
+
+
+
