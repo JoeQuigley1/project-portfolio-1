@@ -135,8 +135,8 @@ The live link can be found here [GripForce BJJ](https://joequigley1.github.io/pr
 
  ## Credits
 
- [David Bowers](https://github.com/dnlbowers) - Webinar/channel lead
- [Martina Terlevic](https://www.linkedin.com/in/martinaterlevic/) - Mentor
+ * [David Bowers](https://github.com/dnlbowers) - Webinar/channel lead
+ * [Martina Terlevic](https://www.linkedin.com/in/martinaterlevic/) - Mentor
 
 
  ## Content
