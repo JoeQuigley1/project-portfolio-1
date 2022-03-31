@@ -160,6 +160,10 @@ font-size: 150%;
 .benefit-block  {
     font-size: 120%;
 }
+.benefit-block h3 {
+    font-family: 'Oswald', sans-serif;
+    padding: 5px 0 10px 0;
+}
 
 .banner {
     background-color: rgba(0, 0, 12, 1);
@@ -355,6 +359,33 @@ table, td {
         width: 100%;
         height: 350px;
     }
+
+    .coach {
+        padding:10px 0;
+        margin-left: 130px;
+    }
+
+
+    #coach-top {
+        width: 100%;
+    }
+
+    #coach-big {
+        width: 350px;
+        height: 200px;
+    }
+
+    #coach-bottom {
+        width: 100%;
+    }
+    #coach-small {
+        width: 200px;
+        height: 300px;
+        margin-left: 180px;
+    }
+    #timetable {
+        margin: 0;
+    }
  
 
 }
@@ -395,4 +426,6 @@ table, td {
     font-size: 100%;
     margin: 5px;
 }
+
+
 }
